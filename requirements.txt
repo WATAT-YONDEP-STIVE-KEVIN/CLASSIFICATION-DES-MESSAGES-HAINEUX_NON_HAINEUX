@@ -1,0 +1,10 @@
+import nltk
+joblib
+numpy 
+pandas 
+seaborn 
+wordcloud 
+matplotlib
+nltk
+scikit-learn
+streamlit
